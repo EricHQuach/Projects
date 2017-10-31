@@ -75,7 +75,6 @@ struct cmd{
 } inverter_command;
 
 void float2bytes(float val,uint8_t *bytes_array){
-  // Shamelessly stolen from stackoverflow
   // Create union of shared memory space
   union {
     float float_variable;
