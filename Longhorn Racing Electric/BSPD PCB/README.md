@@ -2,4 +2,4 @@ The Brake System Plausibility Device (BSPD) is a non-programmable PCB I designed
 
 The board operates by receiving digital signals and power from both the dashboard PCB and potentiometers attached to the pedals. Pedal data is passed through a comparator to verify the brake signal, and both brake signal and trip current signal from the BMS are given as inputs to an AND gate to determine the plausibility of the brake system. The result is fed to a delay block which records the duration of the signal. In the event of implausibility lasting for more than 500ms, a HIGH signal is fed to the reset input of a quad R/S latch, which opens the shutdown circuit, shuts down the vehicle's entire electrical system, and brings the car to a halt.
 
-![alt text](https://github.com/EricHQuach/Projects/blob/master/BSPD%20PCB/18-ELC-2501%20(BSPD%20Board)%203D%20Render.png)
+![alt text](https://github.com/EricHQuach/Projects/blob/master/Longhorn%20Racing%20Electric/BSPD%20PCB/18-ELC-2501%20(BSPD%20Board)%203D%20Render.png)
