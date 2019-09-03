@@ -4,4 +4,6 @@ The SAE International Formula SAE program is an engineering design competition f
 
 Within Longhorn Racing Electric, I serve as a member of the Electronics (ELC) subteam. My primary responsibility is to design, assemble, and integrate numerous custom PCBs into the low-voltage controls system of the vehicle. In addition, I am responsible for overseeing integration of the controls system into the vehicle, collaborating with mechanical engineers to design robust electrical enclosures and helping architect the wiring harness and distributed CAN communications system, as well as developing embedded firmware that runs on our boards. 
 
+Learn more about us here: https://www.longhornracing.org/electric-vehicle
+
 ![alt_text](https://live.staticflickr.com/65535/48129282746_72cb442fe3_k.jpg)
